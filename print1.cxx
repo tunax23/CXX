@@ -27,7 +27,8 @@ using namespace std;
 
 int main()
 {
-	cout << "Never fear, C++ is here!";
+	cout << "Never fear, C++ is here!" << endl;
+	//or cout << "Never fear, C++ is here! \n";
 	return 0;
 }
 
