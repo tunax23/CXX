@@ -1,2 +1,2 @@
-g++ print1.cpp
+g++ sum.cpp
 ./a.out
