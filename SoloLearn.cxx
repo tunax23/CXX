@@ -35,4 +35,3 @@ int main() {
 
     cout << emptyseats << endl;
 }
-
