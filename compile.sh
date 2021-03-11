@@ -1,2 +1,2 @@
-g++ sum.cpp
+g++ sumofarray.cpp
 ./a.out
